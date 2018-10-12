@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeofencingApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_geofence_service">Starting geofence transition service</string>
+    <string name="entering_geofence">Entering the GeoFence zone</string>
+    <string name="exiting_geofence">Exiting the GeoFence zone</string>
+    <string name="channel_name">geofence_channel</string>
+    <string name="channel_description">geofence channel description</string>
+</resources>
